@@ -1,4 +1,6 @@
 # Where is Waldo finder
+von Julius und Andrey
+
 Dies ist unser Programm um den gestreiften Mann zu finden. 
 Es basiert auf dem yolov5 Code von ultralyticss:
 https://github.com/ultralytics/yolov5
